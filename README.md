@@ -3,6 +3,7 @@
 Senior Backend Developer
 
 ## Skills
+- java
 - Node.js
 - Express.js
 - MySQL
